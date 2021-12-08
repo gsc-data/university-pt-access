@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/university-pt-access/static/css/main.30b34d3e.chunk.css",
-    "main.js": "/university-pt-access/static/js/main.4433fdbc.chunk.js",
-    "main.js.map": "/university-pt-access/static/js/main.4433fdbc.chunk.js.map",
+    "main.js": "/university-pt-access/static/js/main.da04c9a0.chunk.js",
+    "main.js.map": "/university-pt-access/static/js/main.da04c9a0.chunk.js.map",
     "runtime-main.js": "/university-pt-access/static/js/runtime-main.4f9685e7.js",
     "runtime-main.js.map": "/university-pt-access/static/js/runtime-main.4f9685e7.js.map",
     "static/js/2.54281afc.chunk.js": "/university-pt-access/static/js/2.54281afc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4f9685e7.js",
     "static/js/2.54281afc.chunk.js",
     "static/css/main.30b34d3e.chunk.css",
-    "static/js/main.4433fdbc.chunk.js"
+    "static/js/main.da04c9a0.chunk.js"
   ]
 }
